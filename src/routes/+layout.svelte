@@ -1,3 +1,8 @@
+<script>
+	let name = 'world';
+</script>
+
+
 <nav>
 	<a href="/">home</a>
 	<a href="/about">about</a>
