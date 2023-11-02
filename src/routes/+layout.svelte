@@ -4,6 +4,7 @@
 </script>
 
 <nav>
+	<h1>哈囉你好嗎</h1>
 	<a href="/">home</a>
 	<a href="/about">about</a>
 	<div class="navbar bg-base-100">

@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+	font-family: 'Mantou Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: url('/MantouSans-Regular.woff') format('woff');
+}
+
+body {
+	font-family: 'Mantou Sans', sans-serif;
+}
